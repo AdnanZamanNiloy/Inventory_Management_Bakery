@@ -27,5 +27,5 @@ INITIAL_INVENTORY = {
     "sugar": 2000,
     "eggs": 100,
     "oil": 1000,
-    "butter": 800,
+    "butter": 1000,
 }
